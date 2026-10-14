@@ -1,5 +1,5 @@
 FROM python:3.14-slim
--- define base image as python:3.14-slim, which is a lightweight version of Python 3.14.
+#define base image as python:3.14-slim, which is a lightweight version of Python 3.14.
 
 #install dependencies
 pip install streamlit pandas plotly
